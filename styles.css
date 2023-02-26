@@ -139,6 +139,27 @@ button {
     padding: 0px 16px;
 }
 
+.call-sub-container {
+    background-color: #3882f6;
+    margin: 132px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    padding: 60px 120px;
+    align-items: cen;
+}
+
+.call-header {
+    color: #f9faf8;
+    font-weight: 900;
+    font-size: 24px;
+}
+
+.call-text {
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
 .footer {
     background-color: #1f2937;
 }
