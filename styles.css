@@ -145,8 +145,8 @@ button {
     border-radius: 8px;
     display: flex;
     justify-content: space-between;
-    padding: 60px 120px;
-    align-items: cen;
+    padding: 60px 150px;
+    align-items: center;
 }
 
 .call-header {
@@ -158,6 +158,15 @@ button {
 .call-text {
     color: #e5e7eb;
     font-size: 18px;
+}
+
+.call-button {
+    background-color: #3882f6;
+    border: solid #f9faf8;
+    color: #f9faf8;
+    font-size: 18px;
+    font-weight: 900;
+    padding: 8px 48px;
 }
 
 .footer {
