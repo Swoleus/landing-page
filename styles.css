@@ -60,6 +60,12 @@ a {
 .hero-heading {
     font-weight: 900;
     font-size: 48px;
+    color: #f9faf8;
+}
+
+.hero-text {
+    font-size: 18px;
+    color: #e5e7eb;
 }
 
 button {
@@ -110,6 +116,27 @@ button {
 .info-text {
     max-width: 200px;
     padding-top: 8px;
+}
+
+.quote-container {
+    display: flex;
+    flex-direction: column;
+    background-color: #e5e7eb;
+    padding: 128px;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1f2937;
+}
+
+.quote-name {
+    align-self: flex-end;
+    font-weight: 900;
+    font-size: 20px;
+    padding: 0px 16px;
 }
 
 .footer {
