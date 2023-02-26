@@ -7,7 +7,7 @@ body {
 
 .header {
     background-color: #1f2937;
-    color: white;
+    color: #f9faf8;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -23,7 +23,6 @@ body {
     display: flex;
     gap: 24px;
 }
-
 
 ul {
     list-style-type: none;
@@ -172,4 +171,8 @@ button {
 
 .footer {
     background-color: #1f2937;
+    text-align: center;
+    color: #f9faf8;
+    font-size: 24px;
+    padding: 32px
 }
